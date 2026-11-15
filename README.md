@@ -1,6 +1,6 @@
 ## Multiple Sclerosis Lesion Segmentation
 
-Team name: FEA-MS
+Team name: **FEA-MS**
 
 Project members and roles:
 - **Emir Baručija**: reduction of false positive candidates
